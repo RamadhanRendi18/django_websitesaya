@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8%2B-brightgreen)](https://www.python.org/)
 
-![Deskripsi Gambar](staticfiles\images\WhatsApp Image 2025-01-26 at 00.34.30_2fe4482f.jpg)
+![Gambar Preview Website](staticfiles\images\WhatsApp_Image_2025-01-26_at_00.34.30_2fe4482f.jpg)
 
 ## 📚 Deskripsi
 **Django_WebsiteSaya** adalah proyek web berbasis Django yang dirancang untuk website pengenalan diri. Proyek ini mencakup fitur utama seperti:
