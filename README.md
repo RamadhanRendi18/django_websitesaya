@@ -24,5 +24,6 @@
 - **Django**: Framework Python untuk aplikasi web.
 - **Bootstrap**: Untuk front-end responsif.
 - **HTML**: bahasa yang digunakan untuk membuat struktur dan konten halaman web.
+- **CSS**: bahasa pemrograman yang digunakan untuk mengatur tampilan visual halaman web.
 
 ---
